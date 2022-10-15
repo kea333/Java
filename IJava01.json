@@ -1,0 +1,20 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "blank_notebook_with_java_kernel.ipynb",
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "java",
+      "display_name": "java"
+    },
+    "language_info": {
+      "name": "java"
+    }
+  },
+  "cells": [
+ 
+  ]
+}
